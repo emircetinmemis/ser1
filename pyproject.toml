@@ -37,6 +37,9 @@ utility = [
     "rich>=14.2.0",
     "tqdm>=4.67.1",
 ]
+tt = [
+    "graphviz>=0.21",
+]
 
 [dependency-groups]
 dev = [
